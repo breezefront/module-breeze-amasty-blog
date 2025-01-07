@@ -25,6 +25,9 @@
                             <item name="amBlogSearch" xsi:type="array">
                                 <item name="path" xsi:type="string">Amasty_Blog/js/blog-live-search</item>
                             </item>
+                            <item name="amBlogSlider" xsi:type="array">
+                                <item name="path" xsi:type="string">Swissup_BreezeAmastyBlog/js/blog-slider</item>
+                            </item>
                             <item name="amBlogViewsList" xsi:type="array">
                                 <item name="path" xsi:type="string">Amasty_Blog/js/posts-lists-counter-update</item>
                             </item>
